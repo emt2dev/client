@@ -1,3 +1,16 @@
+# Free Financial Data
+# Libraries
+1. Financial Modeling API
+2. Axios
+3. dotenv
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
